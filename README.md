@@ -1,7 +1,51 @@
-# RoboticHand
+# 🤖 RoboticHand
 
-The absence of women in hard sciences in Brazil is a reality. The scenario is similar at the Instituto Tecnológico de Aeronáutica (ITA), one of the most renomade institutions of higher education in Brazil. The bioengineering group was one of the initiatives inside the STEM2D project. This repository contains the material developed in a complete project for high school students. Mainly, the project aimed to encourage and engage girls in STEM careers by building multidisciplinary skills and bioengineering knowledge  in high school. In four sessions, undergraduate and graduate students from ITA and public school teachers conducted the activities to assemble the robotic hand with the students. Through this material we expect to contribute to science dissemination and a major student's engagement in STEM careers especially the female students. 
+The underrepresentation of women in hard sciences in Brazil is a known reality. This issue is also evident at the **Instituto Tecnológico de Aeronáutica (ITA)**, one of the most prestigious higher education institutions in the country.
 
-________________________________________________________________________________________________________________________________________________________
+As part of the **STEM2D project**, the Bioengineering Group at ITA designed a hands-on initiative for high school students — particularly young women — to foster interest in STEM careers through bioengineering and interdisciplinary skills.
 
-A ausência de mulheres nas ciências exatas no Brasil é uma realidade. O cenário é semelhante no Instituto Tecnológico de Aeronáutica (ITA), uma das mais renomadas instituições de ensino superior do Brasil. O grupo de bioengenharia foi uma das iniciativas dentro do projeto STEM2D. Este repositório contém o material desenvolvido em um projeto completo para alunos do ensino médio. O principal objetivo do projeto foi incentivar e engajar meninas em carreiras STEM, construindo habilidades multidisciplinares e conhecimentos de bioengenharia no ensino médio. Em quatro sessões, alunas de graduação e pós-graduação do ITA e professoras de uma escolas pública realizaram as atividades de montagem da mão robótica com os alunos. Por meio deste material, esperamos contribuir para a divulgação da ciência e um maior engajamento dos estudantes nas carreiras STEM, especialmente as alunas.
+---
+
+## 🧠 Project Overview
+
+This repository contains the material developed for a **4-session course** where students assembled a **robotic hand** using simple materials. The course was delivered through collaborative efforts between ITA undergraduate/graduate students and public school teachers.
+
+### Goals:
+- Promote gender equity in science and technology.
+- Engage high school students — especially girls — in STEM careers.
+- Introduce students to bioengineering through practical and creative activities.
+
+---
+
+## 📁 Repository Structure
+
+- `roboticHand.pdf`: Final report of our work describing the course methodology and outcomes.
+- .pptx files: Supporting files used in the sessions.
+- .ino files: These are Arduino code files, also known as "sketches," that contain the instructions for controlling Arduino hardware.
+
+---
+
+## 📄 Results
+
+The outcomes of the course — including feedback, photos, and learning insights — are documented in the `roboticHand.pdf` file. These results demonstrate the potential of active, inclusive education in promoting diversity in STEM.
+
+---
+
+## 📬 Contact
+
+If you have questions, suggestions, or would like help to replicate this course at your institution, feel free to get in touch!
+
+## 📚 Citation
+
+If you use or refer to this material in your work, please cite:
+
+@inproceedings{valeriano2022robotic,
+  title={A ROBOTIC HAND STARTER KIT WORKSHOP IN PARTNERSHIP WITH A PUBLIC SCHOOL},
+  author={Valeriano, Maria Gabriela and Barros, Maria Beatriz Fiorin Sousa and de Oliveria, Thais Cardoso and Hoshida, Lilian and do Monte, Claudia Neves and Teles, Lara K{\"u}hl and dos Santos, Leila Ribeiro and Martins, Cristiane Aparecida and de Andrade Pereira, Fernanda and Henriques, Izabela Batista and others},
+  booktitle={I Congresso Internacional de Mulheres em STEAM},
+  volume={1},
+  number={1},
+  year={2022}
+}
+
+________
